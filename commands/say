@@ -4,4 +4,4 @@ Codigo:
 $message
 $onlyForIDs[coloque o id da sua conta;mensagem de erro]
 
-Obs; o $onlyForIDs não é necessario.
+Obs; o $onlyForIDs não é obrigatorio, ou seja, você pode fazer apenas com o $message.
