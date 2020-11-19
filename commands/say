@@ -1,1 +1,7 @@
-teste
+No trigger coloque (prefixo do seu bot)say/falar/etc , coloque o que quiser mesmo
+Codigo:
+
+$message
+$onlyForIDs[coloque o id da sua conta;mensagem de erro]
+
+Obs; o $onlyForIDs não é necessario.
