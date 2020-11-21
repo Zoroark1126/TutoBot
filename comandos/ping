@@ -1,3 +1,6 @@
 coloque no trigger (prefixo)ping/latencia/etc
 Codigo:
-meu ping é de $ping ms
+
+olá <@$authorID meu ping é **($pingms)**
+$nomention
+
