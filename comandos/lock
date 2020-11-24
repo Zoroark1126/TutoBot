@@ -1,0 +1,4 @@
+$modifyChannelPerms[$channelID;-sendmessages;$guildID]
+$title[Canal Trancado]
+$description[esse canal foi trancado!]
+$onlyAdmin[apenas admin pode usar este comando!]
