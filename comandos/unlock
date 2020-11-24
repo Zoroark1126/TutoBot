@@ -1,0 +1,4 @@
+$modifyChannelPerms[$channelID;+sendmessages;$guildID]
+$title[Canal Destrancado!]
+$description[destranquei esse canal!, agora converse]
+$onlyAdmin[apenas admin pode usar este comando]
